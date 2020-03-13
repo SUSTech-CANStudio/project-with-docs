@@ -21,6 +21,7 @@ module.exports = {
           position: 'left',
         },
         {href: 'https://SUSTech-CANStudio.github.io/blog', label: 'Blog', position: 'left'},
+        {href: 'https://SUSTech-CANStudio.github.io/', label: 'Home', position: 'right'},
         {
           href: 'https://github.com/SUSTech-CANStudio/project-with-docs',
           label: 'GitHub',
